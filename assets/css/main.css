@@ -3857,3 +3857,28 @@
         
 }
 
+
+.date {
+    width: 50%;
+    padding: 6px 12px;
+	font-size: 16px;
+	line-height: 1.42857143;
+	color: #444;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ddd;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	-webkit-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+.carousel-inner
+{
+    position: relative;
+
+    overflow: hidden; 
+
+    width: 100%;
+}
