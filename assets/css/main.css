@@ -2732,7 +2732,7 @@
 
 			ul.tab-list li a.active {
 				background: #aa14cc;
-				color: #fff !important;
+				color: #aa14cc ;
 			}
 
 			ul.tab-list li a:hover {
@@ -3331,7 +3331,7 @@
 /* Video */
 
 	.video {
-		background: rgba(255, 255, 255, 0.075);
+	
 		border-radius: 4px;
 		margin: 0 0 2em 0;
 		overflow: hidden;
@@ -3559,7 +3559,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background-image: url(br01.jpg);
+		background-color: #041625;
         background-size: cover
 		box-shadow: none;
 		color: #0DFF00;
@@ -4079,4 +4079,9 @@ ing_9843.jpg{
     height: 17px;
     margin: 0;
 
+}
+
+.scrollable {
+    background-image: url(LOGO.png);
+    background-size:cover;
 }
