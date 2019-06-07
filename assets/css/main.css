@@ -432,7 +432,7 @@
 	}
 
 	.\36 u, .\36 u\24 {
-		width: 50%;
+		width: 70%;
 		clear: none;
 		margin-left: 0;
 	}
@@ -450,9 +450,9 @@
 	}
 
 	.\33 u, .\33 u\24 {
-		width: 25%;
+		width: 28%;
 		clear: none;
-		margin-left: 0;
+		margin-left: 2;
 	}
 
 	.\32 u, .\32 u\24 {
@@ -2084,6 +2084,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
+       
 		-moz-flex-wrap: wrap;
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
@@ -2854,7 +2855,7 @@
 			width: 100%;
 			height: 100%;
 			display: block;
-			background-image: url(../../images/bg.jpg);
+			background-image: url(../images/bg.jpg);
 			background-size: cover;
 			background-repeat: no-repeat;
 			opacity: 0.35;
@@ -3330,13 +3331,7 @@
 
 /* Video */
 
-	.video {
 	
-		border-radius: 4px;
-		margin: 0 0 2em 0;
-		overflow: hidden;
-		position: relative;
-	}
 
 		.video img {
 			-moz-transition: -moz-transform 0.2s ease-in-out;
@@ -4084,4 +4079,35 @@ ing_9843.jpg{
 .scrollable {
     background-image: url(LOGO.png);
     background-size:cover;
+}
+
+.d6 {
+    	
+		width: 50%;
+		clear: none;
+		margin-left: 0;
+	}
+
+
+.f6 {
+    	
+		width: 50%;
+		clear: none;
+		margin-right: 0;
+	
+}
+
+.a9 {
+    
+		width: 25%;
+		clear: none;
+		margin-right: 0;
+	
+}
+
+.s9 {
+    
+		width: 75%;
+		clear: none;
+		margin-left: 0;
 }
