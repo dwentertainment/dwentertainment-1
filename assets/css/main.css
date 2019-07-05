@@ -4111,3 +4111,8 @@ ing_9843.jpg{
 		clear: none;
 		margin-left: 0;
 }
+
+.bbnupdatebg {
+    background-color: midnightblue;
+    background-size: contain
+}
